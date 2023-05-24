@@ -1,5 +1,5 @@
 ---
-class: .testing
+class: .gridSearchbox
 ---
 
-this is the first step
+this is the grid search
