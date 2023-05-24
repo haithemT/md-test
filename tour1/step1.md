@@ -1,5 +1,5 @@
 ---
-class:.testing
+class: .testing
 ---
 
 this is the first step
