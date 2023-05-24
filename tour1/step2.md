@@ -1,4 +1,4 @@
 ---
 class: .favoritesViews
 ---
-this is the second step
+this is your favorite view
